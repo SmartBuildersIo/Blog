@@ -1,5 +1,16 @@
+# Site settings
+title: SmartBuilders
+description: > # this means to ignore newlines until "baseurl:"
+  L’objectif de ce blog est de parler de construction de bâtiments, et plus particulièrement d’impression 3D de bâtiments, 
+  et comment ces techniques sont l’opportunité d’utiliser des matériaux plus durables.
+url: "http://www.smartbuilders.io" # the base hostname & protocol for your site
+
+# Template settings
 remote_theme: Phlow/feeling-responsive 
 header:
     image_fullwidth: "/_assets/header.png"
     caption: SmartBuilders.io
     caption_url: Democratise 3D printing of buildings and the use of innovative materials
+    
+# Build settings
+markdown: kramdown
