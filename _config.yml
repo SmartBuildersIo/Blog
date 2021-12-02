@@ -20,7 +20,7 @@ improve_content: 'https://github.com/SmartBuildersIo/blog/edit/gh-pages'
 urlimg: 'https://SmartBuildersIo.github.io/blog/images/'
 
 # Logo size is 600x80 pixels
-logo: "logo.png"
+#logo: "logo.png"
 
 # Plugins
 plugins:
