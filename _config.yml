@@ -1,43 +1,3 @@
-# Site settings
-title: SmartBuilders
-slogan: 'Democratise 3D printing of buildings and the use of innovative materials'
-description: > # this means to ignore newlines until "baseurl:"
-  L’objectif de ce blog est de parler de construction de bâtiments, et plus particulièrement d’impression 3D de bâtiments, 
-  et comment ces techniques sont l’opportunité d’utiliser des matériaux plus durables.
-# This URL is the main address for absolute links. Don't include a slash at the end.
-url: 'http://www.smartbuilders.io'
-#baseurl: '/blog'
-# This is for the editing function in _/includes/improve_content
-# Leave it empty if your site is not on GitHub/GitHub Pages
-improve_content: 'https://github.com/SmartBuildersIo/blog/edit/gh-pages'
-
-# This URL points directly to the images directory making
-# things easier to link to images in posts and templates. It needs a slash at the end.
-#
-# Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
-# Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
-#
-urlimg: 'https://SmartBuildersIo.github.io/blog/images/'
-
-# Logo size is 600x80 pixels
-#logo: "logo.png"
-
-# Plugins
-plugins:
-    - jekyll-asciidoc
-    - jekyll-gist
-    - jekyll-paginate
-
-# Template settings
-remote_theme: Phlow/feeling-responsive 
-header:
-    image_fullwidth: "/_assets/header.png"
-    caption: SmartBuilders.io
-    caption_url: Democratise 3D printing of buildings and the use of innovative materials
-    
-# Build settings
-markdown: kramdown
-
 # ASCII-Font › http://patorjk.com/software/taag/#p=display&f=Slant&t=Phlow
 #
 #      _____ _ __          _____      __  __  _
@@ -67,7 +27,7 @@ author: SmartBuilders.io
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
 url: 'https://SmartBuildersIo.github.io'
-baseurl: '/blog'
+#baseurl: '/blog'
 
 # This is for the editing function in _/includes/improve_content
 # Leave it empty if your site is not on GitHub/GitHub Pages
