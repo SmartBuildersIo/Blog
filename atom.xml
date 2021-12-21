@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="/blog/assets/xslt/atom.xslt" ?>
-<?xml-stylesheet type="text/css" href="/blog/assets/css/atom.css" ?>
+<?xml-stylesheet type="text/xsl" href="/assets/xslt/atom.xslt" ?>
+<?xml-stylesheet type="text/css" href="/assets/css/atom.css" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<id>https://smartbuildersio.github.io/blog/</id>
 	<title>Feeling Responsive</title>
-	<updated>2021-12-21T22:54:01+01:00</updated>
+	<updated>2021-12-21T23:17:01+01:00</updated>
 
 	<subtitle>»Feeling Responsive« is a responsive theme for Jekyll based on the fabulous foundation framework with beautiful typography and a bright color palette.</subtitle>
 
