@@ -10,11 +10,11 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>Atom Feed (Styled)</title>
 
-    <link rel="stylesheet" type="text/css" href="http://localhost:4000//assets/css/styles_feeling_responsive.css">
+    <link rel="stylesheet" type="text/css" href="https://smartbuildersio.github.io/blog/assets/css/styles_feeling_responsive.css">
 
   
 
-	<script src="http://localhost:4000//assets/js/modernizr.min.js"></script>
+	<script src="https://smartbuildersio.github.io/blog/assets/js/modernizr.min.js"></script>
 
 	<script src="https://ajax.googleapis.com/ajax/libs/webfont/1.5.18/webfont.js"></script>
 	<script>
@@ -37,13 +37,13 @@
 	
 	
 	
-	<link rel="canonical" href="http://localhost:4000//assets/xslt/atom.xslt">
+	<link rel="canonical" href="https://smartbuildersio.github.io/blog/assets/xslt/atom.xslt">
 
 
 	<!-- Facebook Open Graph -->
 	<meta property="og:title" content="Atom Feed (Styled)">
 	<meta property="og:description" content="»Feeling Responsive« is a responsive theme for Jekyll based on the fabulous foundation framework with beautiful typography and a bright color palette.">
-	<meta property="og:url" content="http://localhost:4000//assets/xslt/atom.xslt">
+	<meta property="og:url" content="https://smartbuildersio.github.io/blog/assets/xslt/atom.xslt">
 	<meta property="og:locale" content="en_EN">
 	<meta property="og:type" content="website">
 	<meta property="og:site_name" content="Feeling Responsive">
@@ -61,34 +61,34 @@
 	
 	
 
-	<link type="text/plain" rel="author" href="http://localhost:4000//humans.txt">
+	<link type="text/plain" rel="author" href="https://smartbuildersio.github.io/blog/humans.txt">
 
 	
 
 	
 
-	<link rel="icon" sizes="32x32" href="http://localhost:4000/assets/img/favicon-32x32.png">
+	<link rel="icon" sizes="32x32" href="https://smartbuildersio.github.io/blog/assets/img/favicon-32x32.png">
 
-	<link rel="icon" sizes="192x192" href="http://localhost:4000/assets/img/touch-icon-192x192.png">
+	<link rel="icon" sizes="192x192" href="https://smartbuildersio.github.io/blog/assets/img/touch-icon-192x192.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="180x180" href="http://localhost:4000/assets/img/apple-touch-icon-180x180-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="180x180" href="https://smartbuildersio.github.io/blog/assets/img/apple-touch-icon-180x180-precomposed.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="152x152" href="http://localhost:4000/assets/img/apple-touch-icon-152x152-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="152x152" href="https://smartbuildersio.github.io/blog/assets/img/apple-touch-icon-152x152-precomposed.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://localhost:4000/assets/img/apple-touch-icon-144x144-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://smartbuildersio.github.io/blog/assets/img/apple-touch-icon-144x144-precomposed.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="120x120" href="http://localhost:4000/assets/img/apple-touch-icon-120x120-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="120x120" href="https://smartbuildersio.github.io/blog/assets/img/apple-touch-icon-120x120-precomposed.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://localhost:4000/assets/img/apple-touch-icon-114x114-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://smartbuildersio.github.io/blog/assets/img/apple-touch-icon-114x114-precomposed.png">
 
 	
-	<link rel="apple-touch-icon-precomposed" sizes="76x76" href="http://localhost:4000/assets/img/apple-touch-icon-76x76-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="76x76" href="https://smartbuildersio.github.io/blog/assets/img/apple-touch-icon-76x76-precomposed.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://localhost:4000/assets/img/apple-touch-icon-72x72-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="72x72" href="https://smartbuildersio.github.io/blog/assets/img/apple-touch-icon-72x72-precomposed.png">
 
-	<link rel="apple-touch-icon-precomposed" href="http://localhost:4000/assets/img/apple-touch-icon-precomposed.png">	
+	<link rel="apple-touch-icon-precomposed" href="https://smartbuildersio.github.io/blog/assets/img/apple-touch-icon-precomposed.png">	
 
-	<meta name="msapplication-TileImage" content="http://localhost:4000/assets/img/msapplication_tileimage.png">
+	<meta name="msapplication-TileImage" content="https://smartbuildersio.github.io/blog/assets/img/msapplication_tileimage.png">
 
 	<meta name="msapplication-TileColor" content="#fabb00">
 
@@ -107,7 +107,7 @@
   <nav class="top-bar" role="navigation" data-topbar>
     <ul class="title-area">
       <li class="name">
-      <h1 class="show-for-small-only"><a href="http://localhost:4000/" class="icon-tree"> Feeling Responsive</a></h1>
+      <h1 class="show-for-small-only"><a href="https://smartbuildersio.github.io/blog" class="icon-tree"> Feeling Responsive</a></h1>
     </li>
        <!-- Remove the class "menu-icon" to get rid of menu icon. Take out "Menu" to just have icon alone -->
       <li class="toggle-topbar menu-icon"><a href="#"><span>Nav</span></a></li>
@@ -161,7 +161,7 @@
 
             
             
-              <li><a  href="http://localhost:4000//">Home</a></li>
+              <li><a  href="https://smartbuildersio.github.io/blog/">Home</a></li>
               <li class="divider"></li>
 
             
@@ -176,7 +176,7 @@
 
             
             
-              <li><a  href="http://localhost:4000//3D-printing/">3D Printing</a></li>
+              <li><a  href="https://smartbuildersio.github.io/blog/3D-printing/">3D Printing</a></li>
               <li class="divider"></li>
 
             
@@ -191,7 +191,7 @@
 
             
             
-              <li><a  href="http://localhost:4000//new-materials/">New materials</a></li>
+              <li><a  href="https://smartbuildersio.github.io/blog/new-materials/">New materials</a></li>
               <li class="divider"></li>
 
             
@@ -206,7 +206,7 @@
 
             
             
-              <li><a  href="http://localhost:4000//interviews/">Interviews</a></li>
+              <li><a  href="https://smartbuildersio.github.io/blog/interviews/">Interviews</a></li>
               <li class="divider"></li>
 
             
@@ -224,8 +224,8 @@
 <div id="masthead-no-image-header">
 	<div class="row">
 		<div class="small-12 columns">
-			<a id="logo" href="http://localhost:4000/" title="Feeling Responsive – A Flexible Theme for Jekyll">
-				<img src="http://localhost:4000//assets/img/logo.png" alt="Feeling Responsive – A Flexible Theme for Jekyll">
+			<a id="logo" href="https://smartbuildersio.github.io/blog/" title="Feeling Responsive – A Flexible Theme for Jekyll">
+				<img src="https://smartbuildersio.github.io/blog/assets/img/logo.png" alt="Feeling Responsive – A Flexible Theme for Jekyll">
 			</a>
 		</div><!-- /.small-12.columns -->
 	</div><!-- /.row -->
@@ -332,7 +332,7 @@
 		
 
 
-<script src="http://localhost:4000//assets/js/javascript.min.js"></script>
+<script src="https://smartbuildersio.github.io/blog/assets/js/javascript.min.js"></script>
 
 
 
