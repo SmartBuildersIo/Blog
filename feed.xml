@@ -1,72 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://smartbuildersio.github.io/blog//assets/xslt/rss.xslt" ?>
-<?xml-stylesheet type="text/css" href="https://smartbuildersio.github.io/blog//assets/css/rss.css" ?>
+<?xml-stylesheet type="text/xsl" href="http://localhost:4000//assets/xslt/rss.xslt" ?>
+<?xml-stylesheet type="text/css" href="http://localhost:4000//assets/css/rss.css" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Feeling Responsive</title>
 		<description>»Feeling Responsive« is a responsive theme for Jekyll based on the fabulous foundation framework with beautiful typography and a bright color palette.</description>
-		<link>https://smartbuildersio.github.io/blog//</link>
-		<atom:link href="https://smartbuildersio.github.io/blog//feed.xml" rel="self" type="application/rss+xml" />
+		<link>http://localhost:4000//</link>
+		<atom:link href="http://localhost:4000//feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
-				<title>Why 3D printing</title>
-				<link>https://smartbuildersio.github.io/blog//3d%20printing/why-3D-building/</link>
+				<title>Pourquoi l'impression 3D de bâtiments?</title>
+				<link>http://localhost:4000//3d%20printing/why-3D-building/</link>
 				<pubDate>Thu, 02 Dec 2021 00:00:00 +0100</pubDate>
-				<description>&lt;div class=&quot;row&quot;&gt;
-&lt;div class=&quot;medium-4 medium-push-8 columns&quot;&gt;
-    &lt;div class=&quot;panel radius&quot;&gt;
-      &lt;p id=&quot;toc&quot;&gt;&lt;strong&gt;Table of Contents&lt;/strong&gt;&lt;/p&gt;
+				<description>&lt;h2 id=&quot;houston-nous-avons-un-problème&quot;&gt;Houston? Nous avons un problème?&lt;/h2&gt;
 
-    &lt;/div&gt;
-  &lt;/div&gt;&lt;!-- /.medium-4.columns --&gt;
+&lt;h3 id=&quot;des-déchets-si-peu&quot;&gt;Des déchets? si peu…&lt;/h3&gt;
 
+&lt;h3 id=&quot;la-maison-de-nos-rêves-finit-souvent-à-ressembler-à--une-niche&quot;&gt;La maison de nos rêves finit souvent à ressembler à … une niche!&lt;/h3&gt;
 
+&lt;h3 id=&quot;lindustrie-des-retards&quot;&gt;L’industrie des retards&lt;/h3&gt;
 
+&lt;h2 id=&quot;et-vive-limpression-additive-impression-3d&quot;&gt;Et vive l’impression additive! (“impression 3D”)&lt;/h2&gt;
 
+&lt;h3 id=&quot;comment-fonctionne-limpression-additive&quot;&gt;Comment fonctionne l’impression additive&lt;/h3&gt;
 
-# Houston? Nous avons un problème?
+&lt;h3 id=&quot;juste-ce-quil-faut-pas-plus&quot;&gt;Juste ce qu’il faut, pas plus&lt;/h3&gt;
 
-## Des déchets? si peu...
-
-## La maison de nos rêves finit souvent à ressembler à ... une niche!
-
-## L'industrie des retards
-
-
-# Et vive l'impression additive! (&quot;impression 3D&quot;)
-
-
-## Comment fonctionne l'impression additive
-
-## Juste ce qu'il faut, pas plus
-
-## Le temps, c'est de l'argent
-
-
-
-
-
-
+&lt;h3 id=&quot;le-temps-cest-de-largent&quot;&gt;Le temps, c’est de l’argent&lt;/h3&gt;
 
 &lt;ul class=&quot;side-nav&quot;&gt;
 
   
 
     
-      &lt;li&gt;&lt;a href=&quot;https://smartbuildersio.github.io/blog//3d%20printing/why-3D-building/&quot;&gt;3D printing &amp;middot; &lt;strong&gt;Why 3D printing&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000//3d%20printing/why-3D-building/&quot;&gt;3D printing &amp;middot; &lt;strong&gt;Pourquoi l'impression 3D de bâtiments?&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
 
   
 &lt;/ul&gt;
 
-&lt;/div&gt;
 </description>
-				<guid isPermaLink="true">https://smartbuildersio.github.io/blog//3d%20printing/why-3D-building/</guid>
+				<guid isPermaLink="true">http://localhost:4000//3d%20printing/why-3D-building/</guid>
 			</item>
 		
 			<item>
 				<title>Play Audio &amp; Video with media&amp;shy;element.js</title>
-				<link>https://smartbuildersio.github.io/blog//3d%20printing/mediaelement_js/</link>
+				<link>http://localhost:4000//3d%20printing/mediaelement_js/</link>
 				<pubDate>Thu, 15 Oct 2015 00:00:00 +0200</pubDate>
 				<description>&lt;p&gt;&lt;a href=&quot;http://mediaelementjs.com/&quot;&gt;mediaelement.js&lt;/a&gt; is like magic. It’s browser and device support is perfect. To activate the video or audio player just set the following variable in front matter to &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;true&lt;/code&gt;.&lt;/p&gt;
 
@@ -98,12 +77,12 @@
 &lt;p class=&quot;t30 button radius&quot;&gt;&lt;a href=&quot;https://archive.org/details/music_from_all_around_the_world&quot;&gt;Download Compilation ›&lt;/a&gt;&lt;/p&gt;
 
 </description>
-				<guid isPermaLink="true">https://smartbuildersio.github.io/blog//3d%20printing/mediaelement_js/</guid>
+				<guid isPermaLink="true">http://localhost:4000//3d%20printing/mediaelement_js/</guid>
 			</item>
 		
 			<item>
 				<title>Wonderful Typography</title>
-				<link>https://smartbuildersio.github.io/blog//3d%20printing/typography/</link>
+				<link>http://localhost:4000//3d%20printing/typography/</link>
 				<pubDate>Sun, 16 Aug 2015 00:00:00 +0200</pubDate>
 				<description>&lt;!--more--&gt;
 
@@ -535,24 +514,24 @@ element&lt;/td&gt;
   &lt;/ol&gt;
 &lt;/div&gt;
 </description>
-				<guid isPermaLink="true">https://smartbuildersio.github.io/blog//3d%20printing/typography/</guid>
+				<guid isPermaLink="true">http://localhost:4000//3d%20printing/typography/</guid>
 			</item>
 		
 			<item>
 				<title>Now with Comments!</title>
-				<link>https://smartbuildersio.github.io/blog//3d%20printing/comments/</link>
+				<link>http://localhost:4000//3d%20printing/comments/</link>
 				<pubDate>Sat, 15 Aug 2015 00:00:00 +0200</pubDate>
 				<description>&lt;p&gt;If you want to use Disqus-Comments with &lt;em&gt;Feeling Responsive&lt;/em&gt;, just open &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;config.yml&lt;/code&gt; and add your &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;disqus_shortname&lt;/code&gt;. &lt;a href=&quot;https://disqus.com/websites/&quot;&gt;More on how to use Disqus ›&lt;/a&gt;
 &lt;!--more--&gt;&lt;/p&gt;
 
 &lt;p&gt;By default comments are turned off. You can customize the default behaviour in &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;config.yml&lt;/code&gt;. To &lt;strong&gt;turn on comments&lt;/strong&gt; just add &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;comments: true&lt;/code&gt; to front matter using the page layout &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;layout: page&lt;/code&gt;.&lt;/p&gt;
 </description>
-				<guid isPermaLink="true">https://smartbuildersio.github.io/blog//3d%20printing/comments/</guid>
+				<guid isPermaLink="true">http://localhost:4000//3d%20printing/comments/</guid>
 			</item>
 		
 			<item>
 				<title>No Header</title>
-				<link>https://smartbuildersio.github.io/blog//3d%20printing/no-header/</link>
+				<link>http://localhost:4000//3d%20printing/no-header/</link>
 				<pubDate>Tue, 11 Aug 2015 00:00:00 +0200</pubDate>
 				<description>&lt;p&gt;&lt;em&gt;Silence is beautiful.&lt;/em&gt; Sometimes you just want no distractions at all. Whether you like the content to speak for itself or enjoy pure typography on a plain background: &lt;em&gt;Feeling Responsive&lt;/em&gt; got you covered. Just say &lt;em&gt;no&lt;/em&gt; like this:
 &lt;!--more--&gt;&lt;/p&gt;
@@ -567,31 +546,31 @@ element&lt;/td&gt;
   
 
     
-      &lt;li&gt;&lt;a href=&quot;https://smartbuildersio.github.io/blog//3d%20printing/no-header/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000//3d%20printing/no-header/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;https://smartbuildersio.github.io/blog//3d%20printing/no-header-but-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header but Article Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000//3d%20printing/no-header-but-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header but Article Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;https://smartbuildersio.github.io/blog//3d%20printing/header-with-text/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Text&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000//3d%20printing/header-with-text/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Text&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;https://smartbuildersio.github.io/blog//3d%20printing/header-logo-only/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Logo Only&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000//3d%20printing/header-logo-only/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Logo Only&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;https://smartbuildersio.github.io/blog//new%20materials/header-image-color/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Background Color&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000//new%20materials/header-image-color/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Background Color&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;https://smartbuildersio.github.io/blog//3d%20printing/header-full-width-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header with a Full-Width-Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000//3d%20printing/header-full-width-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header with a Full-Width-Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;https://smartbuildersio.github.io/blog//3d%20printing/header-image-pattern/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Pattern&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000//3d%20printing/header-image-pattern/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Pattern&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
 
   
 &lt;/ul&gt;
 
 </description>
-				<guid isPermaLink="true">https://smartbuildersio.github.io/blog//3d%20printing/no-header/</guid>
+				<guid isPermaLink="true">http://localhost:4000//3d%20printing/no-header/</guid>
 			</item>
 		
 			<item>
 				<title>No Header but Article Image</title>
-				<link>https://smartbuildersio.github.io/blog//3d%20printing/no-header-but-image/</link>
+				<link>http://localhost:4000//3d%20printing/no-header-but-image/</link>
 				<pubDate>Thu, 12 Mar 2015 00:00:00 +0100</pubDate>
 				<description>&lt;p&gt;First turn of the header with &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;header: no&lt;/code&gt;. Then add an image to with the following code. The caption is optional.
 &lt;!--more--&gt;&lt;/p&gt;
@@ -610,31 +589,31 @@ image:
   
 
     
-      &lt;li&gt;&lt;a href=&quot;https://smartbuildersio.github.io/blog//3d%20printing/no-header/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000//3d%20printing/no-header/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;https://smartbuildersio.github.io/blog//3d%20printing/no-header-but-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header but Article Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000//3d%20printing/no-header-but-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header but Article Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;https://smartbuildersio.github.io/blog//3d%20printing/header-with-text/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Text&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000//3d%20printing/header-with-text/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Text&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;https://smartbuildersio.github.io/blog//3d%20printing/header-logo-only/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Logo Only&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000//3d%20printing/header-logo-only/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Logo Only&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;https://smartbuildersio.github.io/blog//new%20materials/header-image-color/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Background Color&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000//new%20materials/header-image-color/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Background Color&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;https://smartbuildersio.github.io/blog//3d%20printing/header-full-width-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header with a Full-Width-Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000//3d%20printing/header-full-width-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header with a Full-Width-Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;https://smartbuildersio.github.io/blog//3d%20printing/header-image-pattern/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Pattern&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000//3d%20printing/header-image-pattern/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Pattern&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
 
   
 &lt;/ul&gt;
 
 </description>
-				<guid isPermaLink="true">https://smartbuildersio.github.io/blog//3d%20printing/no-header-but-image/</guid>
+				<guid isPermaLink="true">http://localhost:4000//3d%20printing/no-header-but-image/</guid>
 			</item>
 		
 			<item>
 				<title>Header With Text</title>
-				<link>https://smartbuildersio.github.io/blog//3d%20printing/header-with-text/</link>
+				<link>http://localhost:4000//3d%20printing/header-with-text/</link>
 				<pubDate>Tue, 10 Feb 2015 00:00:00 +0100</pubDate>
 				<description>&lt;!--more--&gt;
 
@@ -654,31 +633,31 @@ image:
   
 
     
-      &lt;li&gt;&lt;a href=&quot;https://smartbuildersio.github.io/blog//3d%20printing/no-header/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000//3d%20printing/no-header/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;https://smartbuildersio.github.io/blog//3d%20printing/no-header-but-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header but Article Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000//3d%20printing/no-header-but-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header but Article Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;https://smartbuildersio.github.io/blog//3d%20printing/header-with-text/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Text&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000//3d%20printing/header-with-text/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Text&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;https://smartbuildersio.github.io/blog//3d%20printing/header-logo-only/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Logo Only&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000//3d%20printing/header-logo-only/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Logo Only&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;https://smartbuildersio.github.io/blog//new%20materials/header-image-color/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Background Color&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000//new%20materials/header-image-color/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Background Color&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;https://smartbuildersio.github.io/blog//3d%20printing/header-full-width-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header with a Full-Width-Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000//3d%20printing/header-full-width-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header with a Full-Width-Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;https://smartbuildersio.github.io/blog//3d%20printing/header-image-pattern/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Pattern&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000//3d%20printing/header-image-pattern/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Pattern&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
 
   
 &lt;/ul&gt;
 
 </description>
-				<guid isPermaLink="true">https://smartbuildersio.github.io/blog//3d%20printing/header-with-text/</guid>
+				<guid isPermaLink="true">http://localhost:4000//3d%20printing/header-with-text/</guid>
 			</item>
 		
 			<item>
 				<title>Header With Logo Only</title>
-				<link>https://smartbuildersio.github.io/blog//3d%20printing/header-logo-only/</link>
+				<link>http://localhost:4000//3d%20printing/header-logo-only/</link>
 				<pubDate>Thu, 09 Oct 2014 00:00:00 +0200</pubDate>
 				<description>&lt;p&gt;No front matter code needed.
 &lt;!--more--&gt;&lt;/p&gt;
@@ -690,33 +669,33 @@ image:
   
 
     
-      &lt;li&gt;&lt;a href=&quot;https://smartbuildersio.github.io/blog//3d%20printing/no-header/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000//3d%20printing/no-header/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;https://smartbuildersio.github.io/blog//3d%20printing/no-header-but-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header but Article Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000//3d%20printing/no-header-but-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header but Article Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;https://smartbuildersio.github.io/blog//3d%20printing/header-with-text/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Text&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000//3d%20printing/header-with-text/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Text&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;https://smartbuildersio.github.io/blog//3d%20printing/header-logo-only/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Logo Only&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000//3d%20printing/header-logo-only/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Logo Only&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;https://smartbuildersio.github.io/blog//new%20materials/header-image-color/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Background Color&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000//new%20materials/header-image-color/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Background Color&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;https://smartbuildersio.github.io/blog//3d%20printing/header-full-width-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header with a Full-Width-Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000//3d%20printing/header-full-width-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header with a Full-Width-Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;https://smartbuildersio.github.io/blog//3d%20printing/header-image-pattern/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Pattern&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000//3d%20printing/header-image-pattern/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Pattern&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
 
   
 &lt;/ul&gt;
 
 </description>
-				<guid isPermaLink="true">https://smartbuildersio.github.io/blog//3d%20printing/header-logo-only/</guid>
+				<guid isPermaLink="true">http://localhost:4000//3d%20printing/header-logo-only/</guid>
 			</item>
 		
 			<item>
 				<title>Header Image With Background Color</title>
-				<link>https://smartbuildersio.github.io/blog//new%20materials/header-image-color/</link>
+				<link>http://localhost:4000//new%20materials/header-image-color/</link>
 				<pubDate>Thu, 09 Oct 2014 00:00:00 +0200</pubDate>
-				<description>&lt;p&gt;It’s so easy to do. Just define in front matter an image and a background color. Instead of a color you can also use a pattern image. Have a look at the &lt;a href=&quot;https://smartbuildersio.github.io/blog//design/header-image-pattern/&quot;&gt;example with a background pattern&lt;/a&gt;.
+				<description>&lt;p&gt;It’s so easy to do. Just define in front matter an image and a background color. Instead of a color you can also use a pattern image. Have a look at the &lt;a href=&quot;http://localhost:4000//design/header-image-pattern/&quot;&gt;example with a background pattern&lt;/a&gt;.
 &lt;!--more--&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;front-matter-code&quot;&gt;Front Matter Code&lt;/h2&gt;
@@ -738,31 +717,31 @@ image:
   
 
     
-      &lt;li&gt;&lt;a href=&quot;https://smartbuildersio.github.io/blog//3d%20printing/no-header/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000//3d%20printing/no-header/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;https://smartbuildersio.github.io/blog//3d%20printing/no-header-but-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header but Article Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000//3d%20printing/no-header-but-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header but Article Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;https://smartbuildersio.github.io/blog//3d%20printing/header-with-text/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Text&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000//3d%20printing/header-with-text/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Text&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;https://smartbuildersio.github.io/blog//3d%20printing/header-logo-only/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Logo Only&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000//3d%20printing/header-logo-only/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Logo Only&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;https://smartbuildersio.github.io/blog//new%20materials/header-image-color/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Background Color&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000//new%20materials/header-image-color/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Background Color&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;https://smartbuildersio.github.io/blog//3d%20printing/header-full-width-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header with a Full-Width-Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000//3d%20printing/header-full-width-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header with a Full-Width-Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;https://smartbuildersio.github.io/blog//3d%20printing/header-image-pattern/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Pattern&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000//3d%20printing/header-image-pattern/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Pattern&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
 
   
 &lt;/ul&gt;
 
 </description>
-				<guid isPermaLink="true">https://smartbuildersio.github.io/blog//new%20materials/header-image-color/</guid>
+				<guid isPermaLink="true">http://localhost:4000//new%20materials/header-image-color/</guid>
 			</item>
 		
 			<item>
 				<title>Header with a Full-Width-Image</title>
-				<link>https://smartbuildersio.github.io/blog//3d%20printing/header-full-width-image/</link>
+				<link>http://localhost:4000//3d%20printing/header-full-width-image/</link>
 				<pubDate>Thu, 09 Oct 2014 00:00:00 +0200</pubDate>
 				<description>&lt;p&gt;It’s so easy to do. Just define in front matter your image.
 &lt;!--more--&gt;&lt;/p&gt;
@@ -782,26 +761,26 @@ image:
   
 
     
-      &lt;li&gt;&lt;a href=&quot;https://smartbuildersio.github.io/blog//3d%20printing/no-header/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000//3d%20printing/no-header/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;https://smartbuildersio.github.io/blog//3d%20printing/no-header-but-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header but Article Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000//3d%20printing/no-header-but-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header but Article Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;https://smartbuildersio.github.io/blog//3d%20printing/header-with-text/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Text&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000//3d%20printing/header-with-text/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Text&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;https://smartbuildersio.github.io/blog//3d%20printing/header-logo-only/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Logo Only&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000//3d%20printing/header-logo-only/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Logo Only&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;https://smartbuildersio.github.io/blog//new%20materials/header-image-color/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Background Color&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000//new%20materials/header-image-color/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Background Color&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;https://smartbuildersio.github.io/blog//3d%20printing/header-full-width-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header with a Full-Width-Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000//3d%20printing/header-full-width-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header with a Full-Width-Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;https://smartbuildersio.github.io/blog//3d%20printing/header-image-pattern/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Pattern&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000//3d%20printing/header-image-pattern/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Pattern&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
 
   
 &lt;/ul&gt;
 
 </description>
-				<guid isPermaLink="true">https://smartbuildersio.github.io/blog//3d%20printing/header-full-width-image/</guid>
+				<guid isPermaLink="true">http://localhost:4000//3d%20printing/header-full-width-image/</guid>
 			</item>
 		
 	</channel>
