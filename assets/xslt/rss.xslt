@@ -31,7 +31,7 @@
 
 
 	<!-- Search Engine Optimization -->
-	<meta name="description" content="»Feeling Responsive« is a responsive theme for Jekyll based on the fabulous foundation framework with beautiful typography and a bright color palette.">
+	<meta name="description" content="SmartBuilders.io est un blog pour échanger sur l&#39;usage de l&#39;impression 3D et de nouveaux matériaux dans le bâtiment">
 	<meta name="google-site-verification" content="Vk0IOJ2jwG_qEoG7fuEXYqv0m2rLa8P778Fi_GrsgEQ">
 	<meta name="msvalidate.01" content="0FB4C028ABCF07C908C54386ABD2D97F" >
 	
@@ -42,22 +42,22 @@
 
 	<!-- Facebook Open Graph -->
 	<meta property="og:title" content="RSS Feed (Styled)">
-	<meta property="og:description" content="»Feeling Responsive« is a responsive theme for Jekyll based on the fabulous foundation framework with beautiful typography and a bright color palette.">
+	<meta property="og:description" content="SmartBuilders.io est un blog pour échanger sur l&#39;usage de l&#39;impression 3D et de nouveaux matériaux dans le bâtiment">
 	<meta property="og:url" content="https://smartbuildersio.github.io/blog/assets/xslt/rss.xslt">
 	<meta property="og:locale" content="en_EN">
 	<meta property="og:type" content="website">
-	<meta property="og:site_name" content="Feeling Responsive">
+	<meta property="og:site_name" content="SmartBuilders.io">
 	
-	<meta property="article:author" content="https://www.facebook.com/phlow.media">
+	
 
 
 	
 	<!-- Twitter -->
 	<meta name="twitter:card" content="summary">
-	<meta name="twitter:site" content="phlow">
-	<meta name="twitter:creator" content="phlow">
+	<meta name="twitter:site" content="smartbuilders.io">
+	<meta name="twitter:creator" content="smartbuilders.io">
 	<meta name="twitter:title" content="RSS Feed (Styled)">
-	<meta name="twitter:description" content="»Feeling Responsive« is a responsive theme for Jekyll based on the fabulous foundation framework with beautiful typography and a bright color palette.">
+	<meta name="twitter:description" content="SmartBuilders.io est un blog pour échanger sur l&#39;usage de l&#39;impression 3D et de nouveaux matériaux dans le bâtiment">
 	
 	
 
@@ -107,7 +107,7 @@
   <nav class="top-bar" role="navigation" data-topbar>
     <ul class="title-area">
       <li class="name">
-      <h1 class="show-for-small-only"><a href="https://smartbuildersio.github.io/blog" class="icon-tree"> Feeling Responsive</a></h1>
+      <h1 class="show-for-small-only"><a href="https://smartbuildersio.github.io/blog" class="icon-tree"> SmartBuilders.io</a></h1>
     </li>
        <!-- Remove the class "menu-icon" to get rid of menu icon. Take out "Menu" to just have icon alone -->
       <li class="toggle-topbar menu-icon"><a href="#"><span>Nav</span></a></li>
@@ -224,8 +224,8 @@
 <div id="masthead-no-image-header">
 	<div class="row">
 		<div class="small-12 columns">
-			<a id="logo" href="https://smartbuildersio.github.io/blog/" title="Feeling Responsive – A Flexible Theme for Jekyll">
-				<img src="https://smartbuildersio.github.io/blog/assets/img/logo.png" alt="Feeling Responsive – A Flexible Theme for Jekyll">
+			<a id="logo" href="https://smartbuildersio.github.io/blog/" title="SmartBuilders.io – A Flexible Theme for Jekyll">
+				<img src="https://smartbuildersio.github.io/blog/assets/img/logo.png" alt="SmartBuilders.io – A Flexible Theme for Jekyll">
 			</a>
 		</div><!-- /.small-12.columns -->
 	</div><!-- /.row -->
@@ -313,7 +313,7 @@
       <div id="subfooter">
         <nav class="row">
           <section id="subfooter-left" class="small-12 medium-6 columns credits">
-            <p>Created with &hearts; by <a href="http://phlow.de/">Phlow</a> with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> based on <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>
+            <p>Created by SMartBuilders.io based on the template <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>
           </section>
 
           <section id="subfooter-right" class="small-12 medium-6 columns">

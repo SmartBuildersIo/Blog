@@ -3,20 +3,18 @@
 <?xml-stylesheet type="text/css" href="/assets/css/atom.css" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<id>https://smartbuildersio.github.io/blog/</id>
-	<title>Feeling Responsive</title>
-	<updated>2021-12-23T18:06:42+01:00</updated>
+	<title>SmartBuilders.io</title>
+	<updated>2022-01-06T11:23:53+01:00</updated>
 
-	<subtitle>»Feeling Responsive« is a responsive theme for Jekyll based on the fabulous foundation framework with beautiful typography and a bright color palette.</subtitle>
+	<subtitle>SmartBuilders.io est un blog pour échanger sur l'usage de l'impression 3D et de nouveaux matériaux dans le bâtiment</subtitle>
 
 	
 		
 		<author>
 			
-				<name>SmartBuilders</name>
+				<name>SmartBuilders.io</name>
 			
 			
-			
-				<uri>http://www.smartbuilders.io/</uri>
 			
 		</author>
 	
@@ -37,11 +35,9 @@
 				
 				<author>
 					
-						<name>SmartBuilders</name>
+						<name>smartbuilders.io</name>
 					
 					
-					
-						<uri>http://www.smartbuilders.io/</uri>
 					
 				</author>
 			
@@ -97,11 +93,9 @@
 				
 				<author>
 					
-						<name>SmartBuilders</name>
+						<name>smartbuilders.io</name>
 					
 					
-					
-						<uri>http://www.smartbuilders.io/</uri>
 					
 				</author>
 			
@@ -161,11 +155,9 @@
 				
 				<author>
 					
-						<name>SmartBuilders</name>
+						<name>smartbuilders.io</name>
 					
 					
-					
-						<uri>http://www.smartbuilders.io/</uri>
 					
 				</author>
 			
@@ -619,11 +611,9 @@ element&lt;/td&gt;
 				
 				<author>
 					
-						<name>SmartBuilders</name>
+						<name>smartbuilders.io</name>
 					
 					
-					
-						<uri>http://www.smartbuilders.io/</uri>
 					
 				</author>
 			
@@ -652,11 +642,9 @@ element&lt;/td&gt;
 				
 				<author>
 					
-						<name>SmartBuilders</name>
+						<name>smartbuilders.io</name>
 					
 					
-					
-						<uri>http://www.smartbuilders.io/</uri>
 					
 				</author>
 			
@@ -718,11 +706,9 @@ element&lt;/td&gt;
 				
 				<author>
 					
-						<name>SmartBuilders</name>
+						<name>smartbuilders.io</name>
 					
 					
-					
-						<uri>http://www.smartbuilders.io/</uri>
 					
 				</author>
 			
@@ -788,11 +774,9 @@ image:
 				
 				<author>
 					
-						<name>SmartBuilders</name>
+						<name>smartbuilders.io</name>
 					
 					
-					
-						<uri>http://www.smartbuilders.io/</uri>
 					
 				</author>
 			
@@ -859,11 +843,9 @@ image:
 				
 				<author>
 					
-						<name>SmartBuilders</name>
+						<name>smartbuilders.io</name>
 					
 					
-					
-						<uri>http://www.smartbuilders.io/</uri>
 					
 				</author>
 			
@@ -922,11 +904,9 @@ image:
 				
 				<author>
 					
-						<name>SmartBuilders</name>
+						<name>smartbuilders.io</name>
 					
 					
-					
-						<uri>http://www.smartbuilders.io/</uri>
 					
 				</author>
 			
@@ -997,11 +977,9 @@ image:
 				
 				<author>
 					
-						<name>SmartBuilders</name>
+						<name>smartbuilders.io</name>
 					
 					
-					
-						<uri>http://www.smartbuilders.io/</uri>
 					
 				</author>
 			
